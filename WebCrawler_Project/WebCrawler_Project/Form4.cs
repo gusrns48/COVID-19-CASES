@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace WebCrawler_Project
 {
-    public partial class 대 : Form
+    public partial class Form4 : Form
     {
-        public 대()
+        public Form4()
         {
             InitializeComponent();
         }
